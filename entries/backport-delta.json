@@ -1,0 +1,15 @@
+{
+  "name": "backport-delta",
+  "author": "PastaPastaPasta",
+  "description": "Deterministic diff-of-diffs reports comparing Dash Core backport pull requests with their upstream Bitcoin Core pull requests, showing where a backport differs from upstream.",
+  "repo": "https://github.com/thepastaclaw/backport-delta",
+  "web_url": "https://thepastaclaw.github.io/backport-delta/",
+  "status": "live",
+  "access": "Public.",
+  "tags": [
+    "dash-core",
+    "backports",
+    "review"
+  ],
+  "last_verified": "2026-11-25"
+}
