@@ -1,0 +1,17 @@
+{
+  "name": "Dash Forge",
+  "author": "PastaPastaPasta",
+  "description": "Git hosting on Dash Platform: refs, issues, pull requests and access control are signed Platform records, and git packs live in storage the owner chooses (IPFS, S3 or Platform). Web app on mainnet at forge.dashhq.org and testnet at testnet-forge.dashhq.org; the repository also holds the dg command-line client and git-remote-dash for dash:// URLs.",
+  "repo": "https://github.com/PastaPastaPasta/dash-forge",
+  "web_url": "https://forge.dashhq.org/",
+  "status": "live",
+  "access": "Public. Sign-in is with a DashPay or Dash Wallet identity.",
+  "tags": [
+    "git",
+    "platform",
+    "cli",
+    "mainnet",
+    "testnet"
+  ],
+  "last_verified": "2026-11-25"
+}
