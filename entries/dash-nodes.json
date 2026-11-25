@@ -1,0 +1,18 @@
+{
+  "name": "Dash node census (dash-nodes)",
+  "author": "PastaPastaPasta",
+  "description": "Crawler and monitor behind the node pages of DashHQ Radar: every 15 minutes it handshakes with Dash nodes and masternodes on IPv4, IPv6, Tor, I2P and CJDNS and records versions, heights, hosting and reachability, with a map and speed tests. nodes.dashhq.org serves the same site as radar.dashhq.org.",
+  "repo": "https://github.com/PastaPastaPasta/dash-nodes",
+  "web_url": "https://nodes.dashhq.org/",
+  "status": "live",
+  "access": "Public.",
+  "tags": [
+    "nodes",
+    "masternodes",
+    "census",
+    "monitoring",
+    "mainnet",
+    "testnet"
+  ],
+  "last_verified": "2026-11-25"
+}
