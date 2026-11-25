@@ -1,0 +1,16 @@
+{
+  "name": "Backport pipeline status",
+  "author": "PastaPastaPasta",
+  "description": "Live status page of backportsys, the automated pipeline that ports Bitcoin Core pull requests into Dash Core: what is queued, in progress, filed and merged. Published by the pipeline itself.",
+  "repo": "https://github.com/thepastaclaw/backport-status",
+  "web_url": "https://thepastaclaw.github.io/backport-status/",
+  "status": "live",
+  "access": "Public.",
+  "tags": [
+    "dash-core",
+    "backports",
+    "pull-requests",
+    "dashboard"
+  ],
+  "last_verified": "2026-11-25"
+}
