@@ -1,0 +1,17 @@
+{
+  "name": "Dash Bridge",
+  "author": "PastaPastaPasta",
+  "description": "Client-side, non-custodial bridge from Dash Core funds to Dash Platform credits: creates and tops up Platform identities from a Core deposit, with keys generated in the browser. Works on testnet and mainnet and offers an identity widget for other apps.",
+  "repo": "https://github.com/dashpay/dash-bridge",
+  "web_url": "https://bridge.dashhq.org/",
+  "status": "live",
+  "access": "Public.",
+  "tags": [
+    "platform",
+    "identity",
+    "bridge",
+    "mainnet",
+    "testnet"
+  ],
+  "last_verified": "2026-11-25"
+}
